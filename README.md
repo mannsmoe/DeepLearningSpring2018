@@ -1,6 +1,6 @@
 # DeepLearningSpring2018
 Author:
-Moe Almansoori, 16193998
+Moe Almansoori
 
 Objective: 
 Being familiar with the basic functions and tools of Python by solving simple text processing problems. Such as indexing a string, converting a string to a list separate words, searching and testing some conditions. So, we went through four different tasks.
